@@ -1,0 +1,40 @@
+baseURL = "https://your-username.github.io/"
+languageCode = "en-us"
+title = "Morteza's Homepage"
+theme = "PaperMod"
+pagerSize = 10
+
+[params]
+  author = "Morteza"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 1
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 2
+
+[[menu.main]]
+  name = "Weblog"
+  url = "/posts/"
+  weight = 3
+
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
