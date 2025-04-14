@@ -2,7 +2,7 @@
 title: "Morteza Mardani — Lead Scientist in Generative AI"
 ---
 
-<img src="/images/morteza.png" alt="Morteza" style="max-width: 160px; border-radius: 50%; margin-bottom: 1.5rem; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+<img src="images/morteza.png" alt="Morteza" style="max-width: 160px; border-radius: 50%; margin-bottom: 1.5rem; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
 ---
 
@@ -52,7 +52,7 @@ If you're excited about building principled and impactful generative models, get
 
 ## 📬 Connect & Explore
 
-- [📄 CV (PDF)](/cv/morteza_mardani_cv.pdf)
+- [📄 CV (PDF)](/cv/cv_morteza.pdf)
 - [🎓 Google Scholar](https://scholar.google.com/citations?user=pjcBeJYAAAAJ&hl=en)
 - [🔗 LinkedIn](https://www.linkedin.com/in/morteza-mardani-3064aa73/)
 - [𝕏 Twitter/X](https://x.com/MardaniMorteza)
