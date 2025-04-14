@@ -52,7 +52,7 @@ If you're excited about building principled and impactful generative models, get
 
 ## 📬 Connect & Explore
 
-- [📄 CV (PDF)](/cv/cv_morteza.pdf)
+- [📄 CV (PDF)]({{ "cv/cv_morteza.pdf" | relURL }})
 - [🎓 Google Scholar](https://scholar.google.com/citations?user=pjcBeJYAAAAJ&hl=en)
 - [🔗 LinkedIn](https://www.linkedin.com/in/morteza-mardani-3064aa73/)
 - [𝕏 Twitter/X](https://x.com/MardaniMorteza)
