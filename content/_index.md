@@ -30,6 +30,7 @@ I serve as an **IEEE SPS Distinguished Industry Speaker**, a member of the **IEE
 
 ## 📰 News
 
+- **May 2025** — ICML 2025 paper accepted: *Adaptive Flow Matching for Resolving Small-scale Physics* ([link](https://arxiv.org/abs/2410.19814))
 - **March 2025** — Delivered colloquium talk at **University of Minnesota (UMN)**: *Steering Diffusion Models for Next-Gen AI*
 - **January 2025** — Gave a **Keynote at GTTI MMSP Meeting**: *Steering Diffusion Models for Next-Gen AI*
 - **January 2025** — ICLR 2025 paper accepted: *Heavy-Tailed Diffusion Models* ([link](https://arxiv.org/abs/2410.14171))
@@ -37,7 +38,7 @@ I serve as an **IEEE SPS Distinguished Industry Speaker**, a member of the **IEE
 - **November 2024** — *CorrDiff: Residual Diffusion for Science* accepted at **Nature Communications** — Check out the [paper](https://www.nature.com/articles/s43247-025-02042-5), [blog](https://blogs.nvidia.com/blog/earth-2-ai-high-resolution-forecasts/), or [online demo](https://build.nvidia.com/nvidia/corrdiff).
 - **September 2024** — Elected as **IEEE Distinguished Industry Speaker**
 - **September 2024** — Delivered invited talk at **University of Rochester, NY**: *Steering Diffusion Models for Next-Gen AI*
-- **May 2024** — NeurIPS 2024 paper accepted: *Warped Diffusions* ([link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b736c4b0b38876c9249db9bd900c1a86-Abstract-Conference.html))
+- **May 2024** — NeurIPS 2024 paper accepted: *Alias-free Diffusion Models* ([link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b736c4b0b38876c9249db9bd900c1a86-Abstract-Conference.html))
 
 
 ---
@@ -52,7 +53,6 @@ If you're excited about building principled and impactful generative models, get
 
 ## 📬 Connect & Explore
 
-- [📄 CV (PDF)]({{ "cv/cv_morteza.pdf" | relURL }})
 - [🎓 Google Scholar](https://scholar.google.com/citations?user=pjcBeJYAAAAJ&hl=en)
 - [🔗 LinkedIn](https://www.linkedin.com/in/morteza-mardani-3064aa73/)
 - [𝕏 Twitter/X](https://x.com/MardaniMorteza)
